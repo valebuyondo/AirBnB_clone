@@ -2,14 +2,13 @@
   <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
 </p>
 
-<h1 align="center">HolbertonBnB</h1>
 <p align="center">An AirBnB clone.</p>
 
 ---
 
 ## Description :house:
 
-HolbertonBnB is a complete web application, integrating database storage, 
+A complete web application, integrating database storage, 
 a back-end API, and front-end interfacing in a clone of AirBnB.
 
 The project currently only implements the back-end console.
@@ -277,5 +276,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Brennan D Baraban** <[bdbaraban](https://github.com/bdbaraban)>
-* **Samie Azad** <[sazad44](https://github.com/sazad44)>
+* **Buyondo Vale** <[valebuyondo](https://github.com/valebuyondo)>
+* **Mutesi Wilbrod** <[mutesiwilbrod](https://github.com/mutesiwilbrod)>
