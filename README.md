@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
+  <img src="https://github.com/valebuyondo/AirBnB_clone/blob/main/assets/hbnb_logo.png"
 </p>
 
 <p align="center">An AirBnB clone.</p>
@@ -43,7 +43,7 @@ the application (achieved by calls on the `storage` object defined above).
 
 ### Using the Console
 
-The HolbertonBnB console can be run both interactively and non-interactively. 
+The console can be run both interactively and non-interactively. 
 To run the console in non-interactive mode, pipe any command(s) into an execution 
 of the file `console.py` at the command line.
 
@@ -89,7 +89,7 @@ $
 
 ### Console Commands
 
-The HolbertonBnB console supports the following commands:
+The console supports the following commands:
 
 * **create**
   * Usage: `create <class>`
